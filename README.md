@@ -1,12 +1,12 @@
-## Hi there 👋
+## Allow me to introduce myself
 
-I'm a full-stack developer and product designer from Germany.
+My name is [Matthias](https://matthiasdevers.com) and I'm a full-stack developer and product designer from Germany.
 
-🔭 I’m currently working on 
+### 🤓 A little bit more about myself
 
-🌱 I’m currently learning
 
-### Stack & Tools I use
+
+### ⚙️ Stack & tools I use
 
 **Tools**\
 `VS Code` `Docker` `Git` `GitHub` `Figma` `Adobe Creative Cloud`
@@ -17,7 +17,7 @@ I'm a full-stack developer and product designer from Germany.
 **Backend**\
 `PHP` `Laravel` `Python` `Django` `SQL` `MySQL` `PostgreSQL`
 
-### Contact me
+### 📧 Contact me
 
-Feel free to contact me at any time
+Feel free to contact me at any time.\
 [contact@matthiasdevers.com](mailto:contact@matthiasdevers.com)
