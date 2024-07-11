@@ -17,5 +17,5 @@ VS Code, Docker, Git, GitHub, Figma, Adobe Creative Cloud
 HTML, CSS, SASS, PostCSS, Tailwind, JavaScript, TypeScript, React, Astro, Svelte, Vue
 
 **Backend**
-PHP, Laravel, SQL, MySQL, PostgreSQL
+`PHP`, `Laravel`, `SQL`, `MySQL`, `PostgreSQL`
 
