@@ -8,14 +8,14 @@ I'm a full-stack developer and product designer from Germany.
 
 📫 How to reach me
 
-⚙️ **Stack & Tools I use**
+### Stack & Tools I use
 
-**Tools**
-VS Code, Docker, Git, GitHub, Figma, Adobe Creative Cloud
+**Tools**\
+`VS Code` `Docker` `Git` `GitHub` `Figma` `Adobe Creative Cloud`
 
-**Frontend**
-HTML, CSS, SASS, PostCSS, Tailwind, JavaScript, TypeScript, React, Astro, Svelte, Vue
+**Frontend**\
+`HTML` `CSS` `SASS` `PostCSS` `Tailwind` `JavaScript` `TypeScript` `React` `Astro` `Svelte` `Vue`
 
-**Backend**
-`PHP`, `Laravel`, `SQL`, `MySQL`, `PostgreSQL`
+**Backend**\
+`PHP` `Laravel` `SQL` `MySQL` `PostgreSQL`
 
