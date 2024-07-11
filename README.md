@@ -6,8 +6,6 @@ I'm a full-stack developer and product designer from Germany.
 
 🌱 I’m currently learning
 
-📫 How to reach me
-
 ### Stack & Tools I use
 
 **Tools**\
@@ -17,5 +15,9 @@ I'm a full-stack developer and product designer from Germany.
 `HTML` `CSS` `SASS` `PostCSS` `Tailwind` `JavaScript` `TypeScript` `React` `Astro` `Svelte` `Vue`
 
 **Backend**\
-`PHP` `Laravel` `SQL` `MySQL` `PostgreSQL`
+`PHP` `Laravel` `Python` `Django` `SQL` `MySQL` `PostgreSQL`
 
+### Contact me
+
+Feel free to contact me at any time
+[contact@matthiasdevers.com](mailto:contact@matthiasdevers.com)
