@@ -1,6 +1,6 @@
 ## Allow me to introduce myself
 
-My name is **[Matthias](https://matthiasdevers.com)** and I'm a **full-stack developer** and **product designer** from **Germany** 🍻
+My name is **[Matthias](https://matthiasdevers.com)** and I'm a **frontend developer** and **product designer** from **Germany** 🍻
 
 ### A little bit more about myself
 
